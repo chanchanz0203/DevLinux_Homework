@@ -1,0 +1,125 @@
+ 1 – Đếm số chia hết
+Nhập số n. In ra các số từ 1 đến n mà chia hết cho 3 hoặc 5.
+Đếm xem có bao nhiêu số như vậy.
+
+Bài 2 – Tổng nghịch đảo
+Nhập n. Tính tổng:
+
+In ra giá trị gần đúng (float).
+
+Bài 3 – Số đảo ngược
+Nhập số nguyên dương n. Dùng vòng lặp để đảo ngược các chữ số của n.
+Ví dụ: 12345 → 54321.
+
+Bài 4 – Kiểm tra số hoàn hảo
+Một số gọi là hoàn hảo nếu tổng các ước số dương nhỏ hơn nó bằng chính nó.
+Ví dụ: 6 = 1 + 2 + 3.
+Viết chương trình nhập n và in ra tất cả số hoàn hảo ≤ n.
+
+Bài 5 – In hình tam giác Pascal
+Nhập n. In ra tam giác Pascal có n hàng.
+Ví dụ với n=5:
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+
+Bài 6 – Máy tính đơn giản (switch-case)
+Viết chương trình nhập 2 số và 1 toán tử (+ - * / %).
+Dùng switch-case để thực hiện phép tính.
+Nếu toán tử không hợp lệ → in "Toán tử sai".
+
+Bài 7 – ATM rút tiền
+Nhập số tiền cần rút (bội số của 50k).
+ATM có mệnh giá: 500k, 200k, 100k, 50k.
+In ra số tờ từng loại.
+Nếu tổng số tờ > 20 → in "Quá giới hạn số tờ".
+
+Bài 8 – Trò chơi đoán số
+Máy sinh ra số ngẫu nhiên từ 1 → 100.
+Người dùng nhập số đoán:
+Nếu sai → báo "Lớn hơn" hoặc "Nhỏ hơn".
+Nếu đúng → báo "Chúc mừng, đoán đúng sau X lần".
+
+Bài 9 – FizzBuzz
+Nhập số n. In các số từ 1 → n:
+Nếu chia hết cho 3 → in "Fizz".
+Nếu chia hết cho 5 → in "Buzz".
+Nếu chia hết cho cả 3 và 5 → in "FizzBuzz".
+Ngược lại → in chính số đó.
+
+Bài 10 – Máy bán hàng tự động (switch-case + vòng lặp)
+Menu sản phẩm:
+1. Nước suối (10k)
+2. Nước ngọt (15k)
+3. Cà phê (20k)
+4. Trà sữa (25k)
+5. Thoát
+Yêu cầu:
+Người dùng nhập số tiền ban đầu.
+Dùng switch-case + vòng lặp cho phép chọn sản phẩm nhiều lần.
+Nếu tiền không đủ thì báo lỗi.
+Nếu chọn 5 hoặc tiền hết thì kết thú 1 – Đếm số chia hết
+Nhập số n. In ra các số từ 1 đến n mà chia hết cho 3 hoặc 5.
+Đếm xem có bao nhiêu số như vậy.
+
+Bài 2 – Tổng nghịch đảo
+Nhập n. Tính tổng:
+
+In ra giá trị gần đúng (float).
+
+Bài 3 – Số đảo ngược
+Nhập số nguyên dương n. Dùng vòng lặp để đảo ngược các chữ số của n.
+Ví dụ: 12345 → 54321.
+
+Bài 4 – Kiểm tra số hoàn hảo
+Một số gọi là hoàn hảo nếu tổng các ước số dương nhỏ hơn nó bằng chính nó.
+Ví dụ: 6 = 1 + 2 + 3.
+Viết chương trình nhập n và in ra tất cả số hoàn hảo ≤ n.
+
+Bài 5 – In hình tam giác Pascal
+Nhập n. In ra tam giác Pascal có n hàng.
+Ví dụ với n=5:
+1
+1 1
+1 2 1
+1 3 3 1
+1 4 6 4 1
+
+Bài 6 – Máy tính đơn giản (switch-case)
+Viết chương trình nhập 2 số và 1 toán tử (+ - * / %).
+Dùng switch-case để thực hiện phép tính.
+Nếu toán tử không hợp lệ → in "Toán tử sai".
+
+Bài 7 – ATM rút tiền
+Nhập số tiền cần rút (bội số của 50k).
+ATM có mệnh giá: 500k, 200k, 100k, 50k.
+In ra số tờ từng loại.
+Nếu tổng số tờ > 20 → in "Quá giới hạn số tờ".
+
+Bài 8 – Trò chơi đoán số
+Máy sinh ra số ngẫu nhiên từ 1 → 100.
+Người dùng nhập số đoán:
+Nếu sai → báo "Lớn hơn" hoặc "Nhỏ hơn".
+Nếu đúng → báo "Chúc mừng, đoán đúng sau X lần".
+
+Bài 9 – FizzBuzz
+Nhập số n. In các số từ 1 → n:
+Nếu chia hết cho 3 → in "Fizz".
+Nếu chia hết cho 5 → in "Buzz".
+Nếu chia hết cho cả 3 và 5 → in "FizzBuzz".
+Ngược lại → in chính số đó.
+
+Bài 10 – Máy bán hàng tự động (switch-case + vòng lặp)
+Menu sản phẩm:
+1. Nước suối (10k)
+2. Nước ngọt (15k)
+3. Cà phê (20k)
+4. Trà sữa (25k)
+5. Thoát
+Yêu cầu:
+Người dùng nhập số tiền ban đầu.
+Dùng switch-case + vòng lặp cho phép chọn sản phẩm nhiều lần.
+Nếu tiền không đủ thì báo lỗi.
+Nếu chọn 5 hoặc tiền hết thì kết thúc.
